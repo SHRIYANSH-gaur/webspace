@@ -1,0 +1,60 @@
+
+
+hr{
+
+background-color:white;
+height:0px;
+width:40%;
+border-style:none;
+border-top-style:dotted;
+border-color: #66BFBF;
+border-width:3px;
+
+
+
+}
+
+h1 {
+color:  #66BFBF;
+}
+
+
+
+h2 {
+color:  #66BFBF;
+}
+
+
+
+.c1{
+
+background-color: "blue";
+}
+
+.cirpic{
+
+border-radius: 100% ;
+
+}
+
+
+.a{
+
+text-align:center;
+
+}
+
+.centertable{
+
+margin-left:auto;
+margin-right:auto;
+}
+
+
+
+
+
+
+
+</style>   
+
